@@ -4,7 +4,7 @@ import {BrowserRouter , Route , Switch} from "react-router-dom";
 
 import Welcome from './components/Welcome.js'
 
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

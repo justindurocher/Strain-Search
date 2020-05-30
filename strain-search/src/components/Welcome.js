@@ -1,6 +1,10 @@
 import React, {Component} from 'react';
 
-import './components/css/welcome.css';
+import Logo from './images/weedBlackNew.jpg';
+
+import {Container, Col, Row , Button} from "react-bootstrap";
+
+import './css/welcome.css';
 
 class welcome extends Component{
 
@@ -10,7 +14,53 @@ class welcome extends Component{
 
             <div className='welcomePage'>
 
-                
+                <Container>
+
+                    <Row>
+
+                        <Col lg='12' className="logo">
+
+                            <img alt="logo" src={Logo}/>
+
+                        </Col>
+
+                    </Row>
+
+                    <Row>
+
+                        <Col lg="12" className="name">
+                        
+                            Strain Search
+
+                        </Col>
+
+                    </Row>
+
+                    <Row>
+
+                        <Col lg="12" className="slogan">
+                        
+                            Where you can find information on all your favorite Marijuana Strains...
+
+                        </Col>
+
+                    </Row>
+
+                    <Row>
+
+                        <Col lg="12" className="startSearch">
+                        
+                            <Button variant="primary" size="lg" block>
+
+                                Block level button
+
+                            </Button>
+
+                        </Col>
+
+                    </Row>
+
+                </Container>
 
             </div>
 
@@ -19,3 +69,5 @@ class welcome extends Component{
     }
 
 }
+
+export default welcome;
