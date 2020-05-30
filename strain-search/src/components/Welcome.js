@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 
 import Logo from './images/weedBlackNew.jpg';
 
-import {Container, Col, Row , Button} from "react-bootstrap";
+import {Container, Col, Row, Button} from "react-bootstrap";
 
 import './css/welcome.css';
 
@@ -50,9 +50,9 @@ class welcome extends Component{
 
                         <Col lg="12" className="startSearch">
                         
-                            <Button variant="primary" size="lg" block>
+                            <Button variant="secondary" size="lg" block>
 
-                                Block level button
+                                Start Search
 
                             </Button>
 
