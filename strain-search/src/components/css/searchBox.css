@@ -4,11 +4,14 @@
     text-align: center;
     background-color: black;
 }
+.seachBox{
+    margin: 0px;
+}
 .logo-row-1{
     margin-bottom: 20px;
 }
 .logo-row-2{
-    margin-top: 20px;
+    margin-top: 0px;
 }
 .title{
     color: purple;
@@ -22,15 +25,16 @@
     font-family: 'Kaushan Script', cursive;
     font-size: 30px;
 }
-.text-muted{
-    padding-top: 20px;
-    font-family: 'Kaushan Script', cursive;
-    font-size: 25px;
-    color: #ffffff;
-}
 .btn-warning,.btn-info{
     font-family: 'Bangers', cursive;
     letter-spacing: 5px;
+}
+.mini-quote{
+    color: purple;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: 'Kaushan Script' , cursive;
+    font-size: 25px;
 }
 
 

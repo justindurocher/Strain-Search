@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import {Container, Col, Row , Form , Button} from "react-bootstrap";
+import {Container, Col, Row , InputGroup, FormControl , Button} from "react-bootstrap";
 
 import Logo from './images/weedBlackNew.jpg';
 
@@ -102,99 +102,113 @@ class search extends Component{
                         
                         </Col>
 
+                        </Row>
+
+                        <Row>
+
+                            <Col lg="12" className="searchBox">
+
+                                <InputGroup className="mb-3">
+                                    <FormControl
+                                    placeholder="Strain Name..."
+                                    aria-label="Strain Name"
+                                    aria-describedby="basic-addon2"
+                                    />
+                                    <InputGroup.Append>
+                                    <Button variant="outline-success">Search</Button>
+                                    </InputGroup.Append>
+                                </InputGroup>
+
+                            </Col>
+
+                        </Row>
+
+                        <Row className="logo-row-2">
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+                        
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+                        
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+                        
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+
+                        </Col>
+
+                        <Col sm="1" className="mini-logo">
+                        
+                            <img alt="logo" src={Logo} height="75px" width="75px"/>
+                        
+                        </Col>
+
                     </Row>
 
                     <Row>
 
-                        <Col lg="12" className="searchBox">
+                        <Col lg="12" className="mini-quote">
                         
-                        <Form>
-                            <Form.Group controlId="formBasic">
-                            <Form.Control size="large" type="text" placeholder="Search Strain..." />
-                            <Row className="logo-row-2">
+                            Find any strain available in the United States market today
 
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-                        
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-                        
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-                        
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-
-                        </Col>
-
-                        <Col sm="1" className="mini-logo">
-                        
-                            <img alt="logo" src={Logo} height="75px" width="75px"/>
-                        
                         </Col>
 
                     </Row>
-                            <Form.Text className="text-muted">
-                                Reliable and accurate information on every medical weed strain available in the United States
-                            </Form.Text>
-                        </Form.Group>
-                        </Form>
-                        </Col>
 
-                    </Row>
-                    
                     <Row>
 
                         <Col lg="12" className="sub-title">
