@@ -6,6 +6,8 @@ import Welcome from './components/Welcome.js';
 
 import Search from './components/SearchBox.js';
 
+import Dashboard from './components/Dashboard.js';
+
 
 function App() {
   return (
@@ -15,6 +17,7 @@ function App() {
 
         <Route exact path={"/"} component={Welcome}></Route>
         <Route exact path={"/search"} component={Search}></Route>
+        <Route exact path={"/dash"} component={Dashboard}></Route>
 
       </Switch>
 

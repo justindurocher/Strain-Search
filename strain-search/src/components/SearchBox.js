@@ -6,8 +6,6 @@ import Logo from './images/weedBlackNew.jpg';
 
 import './css/searchBox.css';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-
 class search extends Component{
 
     render(){
@@ -115,7 +113,7 @@ class search extends Component{
                                     aria-describedby="basic-addon2"
                                     />
                                     <InputGroup.Append>
-                                    <Button variant="outline-success">Search</Button>
+                                    <Button variant="outline-success" href="/dash">Search</Button>
                                     </InputGroup.Append>
                                 </InputGroup>
 
@@ -222,13 +220,13 @@ class search extends Component{
 
                         <Col sm="6">
                         
-                            <Button variant="warning">Sativa</Button>
+                            <Button variant="warning" href="/dash">Sativa</Button>
 
                         </Col>
 
                         <Col sm="6">
                         
-                            <Button variant="info">Indica</Button>
+                            <Button variant="info" href="/dash">Indica</Button>
                         
                         </Col>
 
