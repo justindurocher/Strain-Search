@@ -50,7 +50,7 @@ class welcome extends Component{
 
                         <Col lg="12" className="startSearch">
                         
-                            <Button variant="secondary" size="lg" block>
+                            <Button variant="flat" size="lg" href="/search" block>
 
                                 Start Search
 

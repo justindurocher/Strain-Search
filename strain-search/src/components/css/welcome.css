@@ -10,7 +10,8 @@ body{
     padding-bottom: 35px;
 }
 .name{
-    color: white;
+    color: purple;
+    text-shadow: 2px 2px #ffffff;
     padding-bottom: 35px;
     font-family: 'Bangers', cursive;
     font-size: 45px;
@@ -25,17 +26,16 @@ body{
     padding-bottom: 35px;
     font-family: 'Bangers', cursive;
 }
-.btn-secondary{
+.btn-flat{
     background-color: purple;
     color: white;
     font-family: 'Bangers', cursive;
-    width: 400px;
     padding: 10px;
     font-size: 20px;
     border: none;
     border-radius: 10px;
 }
-.btn-secondary:hover{
+.btn-flat:hover{
     background-color: mediumorchid;
 }
 
