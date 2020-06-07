@@ -1,0 +1,24 @@
+.dash{
+    background-color: black;
+    padding-bottom: 40px;
+}
+.sideOverlay{
+    background-color: purple;
+    border-radius: 15px;
+}
+.paragraph{
+    background-color: white;
+    border: 1px solid lightgray;
+    text-align: center;
+}
+.form-label{
+    color: black;
+    font-weight: 900;
+}
+.imagesRow{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.plantImg{
+    border: 2px solid purple;
+}
