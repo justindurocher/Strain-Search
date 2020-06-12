@@ -1,6 +1,7 @@
 .dash{
     background-color: black;
     padding-bottom: 40px;
+    padding-top: 67px;
 }
 .sideOverlay{
     background-color: purple;
@@ -21,4 +22,7 @@
 }
 .plantImg{
     border: 2px solid purple;
+}
+.imagesRow2{
+    margin-top: 15px;
 }

@@ -8,7 +8,13 @@ import Plant1 from "./images/plant-1New.jpg";
 
 import Plant2 from "./images/weedplantNew.jpg";
 
-import Plant3 from "./images/plant-3New.jpg";
+import Plant3 from "./images/weedplant3New.jpg";
+
+import Plant4 from "./images/plant-4New.jpg";
+
+import Plant5 from "./images/plant-5New.jpg";
+
+import Plant6 from "./images/plant-6New.jpg";
 
 import './css/dashboard.css';
 
@@ -21,8 +27,8 @@ class dashboard extends Component{
             <div className="dash">
             
          
-
-                            <Navbar bg="black" variant="dark" >
+                
+                            <Navbar fixed="top" bg="dark" variant="dark">
                                 <Navbar.Brand href="/">
                                 <img
                                     alt=""
@@ -34,6 +40,7 @@ class dashboard extends Component{
                                 Strain Search
                                 </Navbar.Brand>
                             </Navbar>
+                 
 
                             <Row className="imagesRow">
 
@@ -95,6 +102,28 @@ class dashboard extends Component{
                                 </Row>
 
                             </Container>
+
+                            <Row className="imagesRow2">
+
+                                <Col>
+
+                                    <img alt="plant" src={Plant4} height="200px" width="400px" className="plantImg"/>
+
+                                </Col>
+
+                                <Col>
+
+                                    <img alt="plant" src={Plant5} height="200px" width="400px" className="plantImg"/>  
+
+                                </Col>
+
+                                <Col>
+
+                                    <img alt="plant" src={Plant6} height="200px" width="400px" className="plantImg"/>
+
+                                </Col>
+
+                            </Row>
 
             
             </div>
