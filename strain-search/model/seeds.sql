@@ -1,0 +1,15 @@
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1', 'blue dream', 'Hybrid', '19', 'Creative', './dir/blueDreamNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('2', 'gelato', 'Hybrid', '18', 'Euphoric', './dir/gelatoNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('3', 'sour diesel', 'Sativa', '19', 'Energetic', './dir/sourDieselNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('4', 'wedding cake', 'Hybrid', '22', 'Relaxed', './dir/weddingCakeNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('5', 'girl scout cookies', 'Hybrid', '19', 'Hungry', './dir/GSCNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('6', 'purple punch', 'Indica', '20', 'Sleepy', './dir/purplePunchNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('7', 'og kush', 'Hybrid', '18', 'Hungry', './dir/ogKushNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('8', 'original glue', 'Hybrid', '20', 'Relaxed', './dir/originalGlueNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('9', 'jack herer', 'Sativa', '18', 'Energetic', './dir/jackHererNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('10', 'green crack', 'Sativa', '17', 'Energetic', './dir/greenCrackNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('11', 'granddaddy purp', 'Indica', '18', 'Sleepy', './dir/GrandDaddyNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('12', 'white widow', 'Hybrid', '16', 'Talkative', './dir/whiteWidowNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('13', 'sherbert', 'Hybrid', '19', 'Relaxed', './dir/sherbertNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('14', 'pineapple express', 'Hybrid', '17', 'Energetic', './dir/pineappleNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('15', 'zkittlez', 'Indica', '19', 'Relaxed', './dir/zkittlezNew.png');
