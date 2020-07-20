@@ -1128,5 +1128,47 @@ INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, stra
 INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1128', 'doctor jamaica', 'Hybrid', '20', 'Euphoric', './dir/doctorDoctorNew.png');
 INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1129', 'docs og', 'Hybrid', '17', 'Hungry', './dir/docsOgNew.png');
 INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1130', 'dog face', 'Hybrid', '20', 'Giggly', './dir/docsOgNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1131', 'dog shit', 'Hybrid', '18', 'Euphoric', './dir/dogShitNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1132', 'dolato', 'Indica', '19', 'Sleepy', './dir/dolatoNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1133', 'dolce gelato', 'Hybrid', '25', 'Uplifted', './dir/dolceGelatoNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1134', 'dolla sign og kush', 'Indica', '20', 'Sleepy', './dir/dollaSignOgKushNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1135', 'domino', 'Indica', '14', 'Sleepy', './dir/dominoNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1136', 'don carlos', 'Hybrid', '26', 'Giggly', './dir/donCarlosNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1137', 'don shula', 'Hybrid', '20', 'Relaxed', './dir/donShulaNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1138', 'dons ghost', 'Hybrid', '23', 'Relaxed', './dir/donsGhostNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1139', 'donegal', 'Hybrid', '18', 'Energetic', './dir/donegalNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1140', 'devil fruit', 'Indica', '20', 'Tingly', './dir/devilNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1141', 'devils tit', 'Sativa', '18', 'Talkative', './dir/devilsTitNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1142', 'diabla', 'Hybrid', '18', 'Tingly', './dir/diabloNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1143', 'diablo', 'Indica', '20', 'Tingly', './dir/diabloNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1144', 'diamond socks', 'Hybrid', '20', 'Giggly', './dir/diamondSocksNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1145', 'diamond valley kush', 'Hybrid', '24', 'Euphoric', './dir/diamondValleyKushNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1146', 'dick cheese', 'Hybrid', '16', 'Hungry', './dir/dickCheeseNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1147', 'diesel dough', 'Hybrid', '23', 'Relaxed', './dir/dieselDoughNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1148', 'diesel drift', 'Sativa', '19', 'Tingly', './dir/dieselDoughNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1159', 'diesel duff', 'Hybrid', '17', 'Sleepy', './dir/dieselDuffNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1150', 'diesel glue', 'Hybrid', '20', 'Giggly', './dir/dieselGlueNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1151', 'dieseltonic', 'Hybrid', '8', 'Relaxed', './dir/dieselDuffNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1152', 'digweed', 'Indica', '8', 'Giggly', './dir/digweedNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1153', 'dinachem', 'Hybrid', '23', 'Uplifted', './dir/dinachemNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1154', 'dinamex', 'Hybrid', '18', 'Relaxed', './dir/dinamexNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1155', 'dirt nap', 'Hybrid', '23', 'Sleepy', './dir/dirtNapNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1156', 'dirty girl', 'Sativa', '19', 'Aroused', './dir/dirtyGirlNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1157', 'dirty old bastard', 'Indica', '14', 'Relaxed', './dir/dirtyOldBastardNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1158', 'dirty widow', 'Hybrid', '22', 'Euphoric', './dir/dirtyWidowNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1159', 'disco glitter', 'Hybrid', '22', 'Relaxed', './dir/discoGlitterNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1160', 'disney blue', 'Hybrid', '26', 'Uplifted', './dir/disneyBlueNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1161', 'divina obscura', 'Hybrid', '4', 'Relaxed', './dir/divinaObscuraNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1162', 'divorce cake', 'Hybrid', '29', 'Euphoric', './dir/divorceCakeNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1163', 'dizzy og', 'Hybrid', '24', 'Relaxed', './dir/dizzyOgNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1164', 'django', 'Sativa', '17', 'Energetic', './dir/djangoNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1165', 'do-over og', 'Hybrid', '21', 'Happy', './dir/doOverOgNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1166', 'doc holliday', 'Hybrid', '19', 'Happy', './dir/docHollidayNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1167', 'doctor doctor', 'Hybrid', '21', 'Happy', './dir/doctorDoctorNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1168', 'doctor jamaica', 'Hybrid', '20', 'Euphoric', './dir/doctorDoctorNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1169', 'docs og', 'Hybrid', '17', 'Hungry', './dir/docsOgNew.png');
+INSERT INTO weed_strains (strain_ID, strain_Name, strain_type, thc_percent, strain_feeling, strain_image)VALUES ('1170', 'dog face', 'Hybrid', '20', 'Giggly', './dir/docsOgNew.png');
+
+
 
 
