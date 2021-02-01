@@ -3,26 +3,15 @@
     padding-bottom: 40px;
     padding-top: 67px;
 }
-.sideOverlay{
+.SearchAgain{
+    padding-top: 10px;
     background-color: purple;
-    border-radius: 15px;
+    font: black;
+    font-size: 20px;
+    font-weight: bold;
 }
 .paragraph{
     background-color: white;
     border: 1px solid lightgray;
     text-align: center;
-}
-.form-label{
-    color: black;
-    font-weight: 900;
-}
-.imagesRow{
-    text-align: center;
-    margin-bottom: 20px;
-}
-.plantImg{
-    border: 2px solid purple;
-}
-.imagesRow2{
-    margin-top: 15px;
 }

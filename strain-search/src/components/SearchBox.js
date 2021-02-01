@@ -211,7 +211,7 @@ class search extends Component{
 
                         <Col lg="12" className="sub-title">
                         
-                            Or Check out the lists...
+                            Or Check out your favorite strain type...
 
                         </Col>
 
