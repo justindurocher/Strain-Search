@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import {Col, Row, Container, Navbar, Form, ListGroup} from 'react-bootstrap';
+import {Col, Row, Container, Navbar, InputGroup, FormControl} from 'react-bootstrap';
 
 import TinyDash from './SmallDash';
 
@@ -16,8 +16,8 @@ class dashboard extends Component{
 
             <div className="dash">        
                 
-                            <Navbar fixed="top" bg="dark" variant="dark">
-                                <Navbar.Brand href="/">
+                        <Navbar fixed="top" bg="dark" variant="dark">
+                            <Navbar.Brand href="/">
                                 <img
                                     alt=""
                                     src={Logo}
@@ -26,20 +26,60 @@ class dashboard extends Component{
                                     className="d-inline-block align-top"
                                 />{' '}
                                 Strain Search
-                                </Navbar.Brand>
-                            </Navbar>
-
+                            </Navbar.Brand>
+                        </Navbar>
+                        <div className="reSearchAgain"> 
                             <Row>
-                                <Container>
 
-                                        <Col lg="12" className="SearchAgain">
+                                <Col lg="12" className="SearchAgain">
                                         
-                                            Search Again...
+                                    Search Again...
                                         
-                                        </Col>
+                                </Col>
 
-                                </Container>
                             </Row>
+                            <Row>
+
+                                <Col lg="12" className="inputAgain">
+                                    
+                                    <InputGroup className="mb-3">
+                                        <FormControl
+                                        placeholder="Strain Name..."
+                                        aria-label="Strain Name"
+                                        aria-describedby="basic-addon2"
+                                        />
+                                    </InputGroup>
+                                </Col>
+
+                            </Row>
+                            <Row>
+
+                                <Col sm="3" className="subHead">
+                                
+                                    Indica
+
+                                </Col>
+
+                                <Col sm="3" className="subHead">
+                                
+                                    Sativa
+
+                                </Col>
+                                <Col sm="3" className="subHead">
+                                
+                                    Hybrid
+
+                                </Col>
+                                <Col sm="2" className="subHead">
+                                
+                                    Feelings
+
+                                </Col>
+                                
+
+                            </Row>
+
+                        </div>
 
                             <Container>
                                     
@@ -53,7 +93,7 @@ class dashboard extends Component{
 
                                 </Row>
 
-                                </Container>
+                            </Container>
             
             </div>
 
