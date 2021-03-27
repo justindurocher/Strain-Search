@@ -216,6 +216,7 @@ class search extends Component{
                         </Col>
 
                     </Row>
+
                     <Row>
 
                         <Col sm="6">

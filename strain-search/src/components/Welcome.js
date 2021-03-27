@@ -2,8 +2,6 @@ import React, {Component} from 'react';
 
 import Logo from './images/weedBlackNew.jpg';
 
-import {Container, Col, Row, Button} from "react-bootstrap";
-
 import './css/welcome.css';
 
 class welcome extends Component{
